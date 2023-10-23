@@ -1,0 +1,92 @@
+Código,Custo do afastamento,Funcionário,Departamento,Data do Atestado,Especialidade,Motivo,Líder
+1036743,"20,4",Anonimo 101,Gerente,2019-05-29,Exames,Exames,Sim
+1036742,23,Anonimo 1,ASSISTENTE DE IMPLANTACAO,2019-05-23,Neurologia pediátrica,Acompanhamento familiar,Anonimo 101
+1036741,"22,8",Anonimo 1,ASSISTENTE DE IMPLANTACAO,2019-05-17,,Consulta médica,Anonimo 101
+1036740,,Anonimo 1,ASSISTENTE DE IMPLANTACAO,2019-05-16,Exames,Exames,Anonimo 101
+1036739,22,Anonimo 1,ASSISTENTE DE IMPLANTACAO,2019-05-06,,Consulta médica,Anonimo 101
+1033172,205,Anonimo 1,ASSISTENTE DE IMPLANTACAO,2019-04-24,Pediatria,Acompanhamento familiar,Anonimo 101
+1032228,123,Anonimo 1,ASSISTENTE DE IMPLANTACAO,2019-04-04,Neurologia pediátrica,Acompanhamento familiar,Anonimo 101
+1030902,205,Anonimo 1,ASSISTENTE DE IMPLANTACAO,2019-03-07,Odontologia ,Consulta odontológica,Anonimo 101
+1036621,321,Anonimo 2,TECNICO SEGUROS IV,2019-05-21,,,Anonimo 101
+1036749,99.8,Anonimo 114,Gerente,2019-05-02,,Consulta médica,Sim
+1036762,331,Anonimo 3,TECNICO SEGUROS II,2019-05-09,,,Anonimo 114
+1027641,123,Anonimo 4,ANALISTA CONTROLE OPERACIONAL I,2019-03-13,Dermatologia,Consulta médica,Anonimo 114
+1036760,92.36,Anonimo 5,ASSISTENTE OPERACIONAL II,2019-05-16,Neurologia,Consulta médica,Anonimo 114
+1037656,94.61,Anonimo 109,Gerente,2019-06-18,Nutrólogo,Consulta médica,Sim
+1036733,94.61,Anonimo 9,TECNICO SEGUROS VG I,2019-05-27,,,Anonimo 109
+1033085,94.61,Anonimo 9,TECNICO SEGUROS VG I,2019-04-29,Gastroenterologia,Exames,Anonimo 109
+1036729,310,Anonimo 108,Gerente,2019-05-27,Cardiologista,Consulta médica,Sim
+1036730,310,Anonimo 8,ANALISTA INFORMACOES GERENCIAIS II,2019-05-23,Cardiologista,Exames,Anonimo 108
+1033416,310,Anonimo 8,TECNICO SEGUROS I,2019-04-22,Cardiologista,Consulta médica,Anonimo 108
+1032282,310,Anonimo 8, ANALISTA INFORMACOES GERENCIAIS II,2019-04-17,Cardiologista,Exames,Anonimo 108
+1032281,310,Anonimo 8,ANALISTA INFORMACOES GERENCIAIS II,2019-04-16,Cardiologista,Consulta médica,Anonimo 108
+1032235,123,Anonimo 8,ANALISTA INFORMACOES GERENCIAIS II,2019-04-11,Dermatologia,Consulta médica,Anonimo 108
+1032230,310,Anonimo 8,ANALISTA INFORMACOES GERENCIAIS II,2019-04-10,Cardiologista,Exames,Anonimo 108
+1032232,310,Anonimo 8,ANALISTA INFORMACOES GERENCIAIS II,2019-04-03,Fisioterapia,Exames,Anonimo 108
+1030893,310,Anonimo 8,ANALISTA INFORMACOES GERENCIAIS II,2019-03-29,Ortopedia,Consulta médica,Anonimo 108
+1027770,"310,45",Anonimo 8,ANALISTA INFORMACOES GERENCIAIS II,2019-03-21,Outras,Exames,Anonimo 108
+1027769,310,Anonimo 8,ANALISTA INFORMACOES GERENCIAIS II,2019-03-20,Ortopedia,Dor/Doença,Anonimo 108
+1033427,94.61,Anonimo 19,TECNICO SEGUROS VG I,2019-04-23,Pediatria,Acompanhamento familiar,Anonimo 108
+1033428,94.61,Anonimo 19,TECNICO SEGUROS VG I,2019-04-17,,,Anonimo 108
+1030924,94.61,Anonimo 19,TECNICO SEGUROS VG I,2019-03-27,Outras,SUS - Pronto Socorro,Anonimo 108
+1030923,94.61,Anonimo 19,TECNICO SEGUROS VG I,2019-03-25,Odontologia ,Cirurgia Odontológica,Anonimo 108
+1027197,93.73,Anonimo 10,ASSISTENTE OPERACIONAL I,2019-02-26,Gastroenterologia,Consulta médica,Anonimo 108
+1036737,96.2,Anonimo 12,ASSISTENTE DE IMPLANTACAO,2019-05-27,Odontologia ,Consulta odontológica,Anonimo 108
+1036736,96.2,Anonimo 12,ASSISTENTE DE IMPLANTACAO,2019-05-22,,Consulta médica,Anonimo 108
+1036735,96.2,Anonimo 12,ASSISTENTE DE IMPLANTACAO,2019-05-20,Otorrinolaringologia,Consulta médica,Anonimo 108
+1036734,96.2,Anonimo 12,ASSISTENTE DE IMPLANTACAO,2019-05-16,Odontologia ,Consulta odontológica,Anonimo 108
+1036738,96.2,Anonimo 12,ASSISTENTE DE IMPLANTACAO,2019-05-07,Odontologia ,Cirurgia Odontológica,Anonimo 108
+1032287,96.2,Anonimo 12,ASSISTENTE DE IMPLANTACAO,2019-04-15,Otorrinolaringologia,Dor/Doença,Anonimo 108
+1032288,96.2,Anonimo 12,ASSISTENTE DE IMPLANTACAO,2019-04-09,Odontologia ,Consulta médica,Anonimo 108
+1030921,96.2,Anonimo 12,ASSISTENTE CONTROLE OPERACIONAL,2019-03-27,Exames,Exames,Anonimo 108
+1027772,96.2,Anonimo 12,ASSISTENTE CONTROLE OPERACIONAL,2019-03-22,Odontologia ,Consulta odontológica,Anonimo 108
+1027773,96.2,Anonimo 12,ASSISTENTE CONTROLE OPERACIONAL,2019-03-19,Odontologia ,Consulta odontológica,Anonimo 108
+1027631,96.2,Anonimo 12,ASSISTENTE CONTROLE OPERACIONAL,2019-03-13,Cabeça e Pescoço,Consulta médica,Anonimo 108
+1027587,96.2,Anonimo 12,ASSISTENTE CONTROLE OPERACIONAL,2019-03-07,Odontologia ,Consulta odontológica,Anonimo 108
+1027589,96.44,Anonimo 222,TECNICO SEGUROS IV,2019-03-04,,Licença gala,Anonimo 108
+1037601,96.56,Anonimo 111,Gerente,2019-06-11,Odontologia ,Consulta odontológica,Sim
+1027590,96.7,Anonimo 61,ASSISTENTE CONTROLE OPERACIONAL,2019-03-08,Pediatria,Acompanhamento familiar,Anonimo 111
+1032300,96.78,Anonimo 32,ANALISTA ESTUDOS E COTACAO II,2019-04-18,Exames,Exames,Anonimo 111
+1032191,96.78,Anonimo 32,ANALISTA ESTUDOS E COTACAO II,2019-04-10,Ginecologia/Obstetricia,Consulta médica,Anonimo 111
+1032240,96.78,Anonimo 32,ANALISTA ESTUDOS E COTACAO II,2019-04-08,Odontologia ,Consulta odontológica,Anonimo 111
+1032241,96.78,Anonimo 32,ANALISTA ESTUDOS E COTACAO II,2019-04-08,,Exames,Anonimo 111
+1027592,96.78,Anonimo 32,ANALISTA ESTUDOS E COTACAO II,2019-03-11,Radiologia,Exames,Anonimo 111
+1027593,96.78,Anonimo 32,ANALISTA ESTUDOS E COTACAO II,2019-03-08,Radiologia,Exames,Anonimo 111
+1037708,97.59,Anonimo 17,ANALISTA RISCOS II,2019-06-07,Ortopedia,Consulta médica,Anonimo 111
+1036659,97.59,Anonimo 17, ANALISTA RISCOS II,2019-05-22,Ortopedia,Consulta médica,Anonimo 111
+1033413,99.66,Anonimo 12,,2019-04-25,Ortopedia,Dor/Doença,Anonimo 111
+1032256,99.66,Anonimo 12,TECNICO DE SEGUROS I,2019-04-15,Outras,Consulta médica,Anonimo 111
+1027588,99.66,Anonimo 12,TECNICO DE SEGUROS I,,Ginecologia,Consulta médica,Anonimo 111
+1036620,92.15,Anonimo 15,ANALISTA CONTABIL II,2019-05-22,,,Anonimo 111
+1036752,92.15,Anonimo 15, ANALISTA CONTABIL II,2019-05-15,Ginecologia/Obstetricia,Exames,Anonimo 111
+1036781,92.15,Anonimo 15,ANALISTA CONTABIL II,2019-05-06,Exames,Exames,Anonimo 111
+1033423,92.15,Anonimo 15,ANALISTA CONTABIL II,2019-04-30,Ginecologia/Obstetricia,Consulta médica,Anonimo 111
+1033425,92.15,Anonimo 15,ANALISTA CONTABIL II,2019-04-17,Exames,Exames,Anonimo 111
+1032179,92.15,Anonimo 15,ANALISTA CONTABIL II,2019-04-10,Obstetricia,Dor/Doença,Anonimo 111
+1032180,92.15,Anonimo 15,ANALISTA CONTABIL II,2019-04-08,Obstetricia,Dor/Doença,Anonimo 111
+1032181,92.15,Anonimo 15,ANALISTA CONTABIL II,2019-04-01,Obstetricia,Exame periódico,Anonimo 111
+1027607,92.15,Anonimo 15,ANALISTA CONTABIL II,2019-03-21,,Exames,Anonimo 111
+1030882,92.15,Anonimo 15,ANALISTA CONTABIL II,2019-03-20,Outras,Consulta médica,Anonimo 111
+1027604,92.15,Anonimo 15,ANALISTA CONTABIL II,2019-03-13,,Exames,Anonimo 111
+1027601,9215,Anonimo 15,ANALISTA CONTABIL II,2019-03-07,,Exames,Anonimo 111
+1037661,83.58,Anonimo 116,Gerente,2019-06-04,Dermatologia,Cirurgia,Sim
+1036787,83.58,Anonimo 16,ANALISTA ESTUDOS E COTACAO I,2019-05-10,Otorrinolaringologia,Consulta médica,Anonimo 116
+1027198,83.58,Anonimo 16,ANALISTA ESTUDOS E COTACAO I,2019-03-21,Gastroenterologia,Consulta médica,Anonimo 116
+1027764,83.58,Anonimo 16,ANALISTA ESTUDOS E COTACAO I,2019-03-21,Ginecologia/Obstetricia,Consulta médica,Anonimo 116
+1027777,93.75,Anonimo 17,TECNICO SEGUROS IV,2019-03-19,Fisioterapia,Acidente,Anonimo 116
+1027776,93.75,Anonimo 117,Gerente,2019-03-12,Ortopedia,Acidente,Sim
+1027612,93.75,Anonimo 17,TECNICO SEGUROS IV,2019-03-11,Clínica Médica,Dor/Doença,Anonimo 117
+1032237,96.09,Anonimo 18,,2019-04-08,Psiquiatria,Psicologia,Anonimo 117
+1036728,132,Anonimo 119,Gerente,2019-05-28,Exames,Exames,Sim
+1036618,132,Anonimo 19,ANALISTA ESTUDOS E COTACAO III,2019-05-23,,,Anonimo 119
+1036751,132,Anonimo 19,ANALISTA ESTUDOS E COTACAO III,2019-05-16,Exames,Tratamento ,Anonimo 119
+1036786,132,Anonimo 19,ANALISTA ESTUDOS E COTACAO III,2019-05-09,,Tratamento ,Anonimo 119
+1027767,132,Anonimo 19,ANALISTA ESTUDOS E COTACAO III,2019-03-25,Dermatologia,Consulta médica,Anonimo 119
+1030876,132,Anonimo 19,ANALISTA ESTUDOS E COTACAO III,2019-03-25,Dermatologia,Consulta médica,Anonimo 119
+1027194,132,Anonimo 19,ANALISTA ESTUDOS E COTACAO III,2019-03-01,Otorrinolaringologia,Consulta médica,Anonimo 119
+1027646,98.31,Anonimo 20,TECNICO CADASTRO I,2019-03-19,Clínica Médica,Dor/Doença,Anonimo 119
+1037659,95.24,Anonimo 21,ANALISTA SINISTROS I,2019-06-04,Oftalmologia,Acompanhamento familiar,Anonimo 119
+1027619,95.24,Anonimo 21,ANALISTA SINISTROS I,2019-03-13,Pediatria,Acompanhamento familiar,Anonimo 119
+1036380,,Anonimo 22,AUDITOR II,2019-05-31,Cardiologista,Exames,Anonimo 119
+1032392,99.16,Anonimo 22,ANALISTA ESTUDOS E COTACAO I,2019-04-23,Odontologia ,Consulta odontológica,Anonimo 119
+1027618,99.16,Anonimo 22,ANALISTA ESTUDOS E COTACAO I,2019-03-12,Odontologia ,Consulta odontológica,Anonimo 119
